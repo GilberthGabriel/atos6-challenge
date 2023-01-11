@@ -1,0 +1,10 @@
+name = "fragrant-wood-c5fa"
+main = "src/index.ts"
+compatibility_date = "2023-01-11"
+
+account_id = "dffd7cfced1e8096695fa779fbef3fcf"
+workers_dev = false
+
+kv_namespaces = [
+  { binding = "KV_DB", id = "8a3de223fb9a44e08ffd88d4f349e2b0", preview_id = "e89001b6b78549d59c495d812c75121c" }
+]
